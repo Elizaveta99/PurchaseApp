@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">PurchaseApp</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="error">Error</string>
+    <string name="wrong_credentials_error">Wrong login or password</string>
+    <string name="sign_up_error">First you need to sign up</string>
+    <string name="already_signed_up_error">This login already exists</string>
 </resources>

@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">PurchaseApp</string>
+    <string name="product">Product</string>
+    <string name="number">Number</string>
+    <string name="save">Save</string>
+    <string name="action">Action</string>
+    <string name="message">Choose action to do</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="error">Error</string>
+    <string name="errorMessage">Fill data</string>
+    <string name="successAdd">New purchase was added successfully</string>
+    <string name="successUpdate">Purchase was updated successfully</string>
+    <string name="successDelete">Purchase was deleted successfully</string>
+    <string name="success">Success</string>
+    <string name="ok">OK</string>
 </resources>

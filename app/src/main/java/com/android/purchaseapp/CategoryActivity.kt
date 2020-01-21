@@ -11,10 +11,4 @@ class CategoryActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_category)
     }
-
-    fun enterButton(view: View) {
-        val intent = Intent(this, ListActivity::class.java)
-        intent.putExtra("category","fruits");
-        startActivity(intent)
-    }
 }

@@ -22,6 +22,7 @@ class CategoryActivity : AppCompatActivity() {
 
         grid.setOnItemClickListener { parent, view, position, id ->
             val intent = Intent(this, ListActivity::class.java)
+            intent.putExtra("category", position.toString())
             startActivity(intent)
         }
     }
